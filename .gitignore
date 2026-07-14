@@ -1,0 +1,15 @@
+.env
+03_Modular RAG
+samsung_chatbot_v2
+.DS_Store
+
+# 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+vectorstore/
+*.sqlite3
+
+# 가상환경
+.venv/
+venv/
