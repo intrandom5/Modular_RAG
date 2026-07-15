@@ -3,14 +3,15 @@
 1. anaconda 설치
 
 2. visual studio code 설치
+
     2.1. visual studio code 익스텐션 설치
         - continue (AI code assistant)
         - jupyter notebook
 
-3. 가상환경 만들고 requirements.txt 설치
+4. 가상환경 만들고 requirements.txt 설치
 ```
-conda create -n [가상환경이름] python=[원하는 버전]
-conda activate [가상환경이름]
+conda create -n rag python=3.12
+conda activate rag
 pip install -r requirements.txt
 ```
 
