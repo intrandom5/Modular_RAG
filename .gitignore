@@ -1,6 +1,7 @@
 .env
 samsung_chatbot_v2
 .DS_Store
+curriculum.md
 
 # 캐시
 __pycache__/
