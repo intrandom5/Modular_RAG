@@ -1,3 +1,5 @@
+# 준비 방법
+
 1. anaconda 설치
 
 2. visual studio code 설치
@@ -6,11 +8,11 @@
         - jupyter notebook
 
 3. 가상환경 만들고 requirements.txt 설치
-'''
+```
 conda create -n [가상환경이름] python=[원하는 버전]
 conda activate [가상환경이름]
 pip install -r requirements.txt
-'''
+```
 
 4. ollama 설치
     3.1. 터미널에서 ollama serve로 ollama 앱/서버 띄우기.
