@@ -7,7 +7,6 @@ curriculum.md
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-vectorstore/
 *.sqlite3
 chroma_db
 chroma_db.zip
