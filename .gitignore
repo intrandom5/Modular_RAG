@@ -8,6 +8,8 @@ __pycache__/
 .ipynb_checkpoints/
 vectorstore/
 *.sqlite3
+chroma_db
+chroma_db.zip
 
 # 가상환경
 .venv/
