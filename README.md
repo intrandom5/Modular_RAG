@@ -5,7 +5,9 @@
 2. visual studio code 설치
 
     2.1. visual studio code 익스텐션 설치
+   
         - continue (AI code assistant)
+   
         - jupyter notebook
 
 4. 가상환경 만들고 requirements.txt 설치
