@@ -9,8 +9,6 @@ __pycache__/
 .ipynb_checkpoints/
 chroma_db
 chroma_db.zip
-vectorstore
-vectorstore/*
 
 # 가상환경
 .venv/
